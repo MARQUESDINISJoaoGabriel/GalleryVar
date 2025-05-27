@@ -1,16 +1,14 @@
 # GalleryVar
 ---
-This is my personal and private commit, i'll dailyfully add images here. This could increase my stats a little on GitHub.
+This is my personal github stuff
+Files here are all added by 9
+TEST REPOSITORY FOR MY DAILY LINE ALGORITHM (for long term purposes)
 ---
-ACHIEVEMENT PROGRESSING !!<br>
+to add soon automatiwed
 - my images
 - other tags
 - badges themselves
 - Win7 icons surely :)
-  - REST APIS ???
-ICONOLOGIES
+  - REST APIS ??? (by ai)
 <h>
 by DINIS Joao
-
-**
-WOWOWOW
